@@ -12,6 +12,38 @@ export function MessageList() {
             Não vejo a hora de começar esse evento, com certeza vai ser o melhor
             de todos os tempos, vamooo pra cima! 🔥🔥
           </p>
+          <div className={styles.messageUser}>
+            <div className={styles.userImage}>
+              <img src="https://github.com/OdaRX.png" alt="Lucas Roberto" />
+            </div>
+            <span>Lucas Roberto</span>
+          </div>
+        </li>
+
+        <li className={styles.message}>
+          <p className={styles.messageContent}>
+            Não vejo a hora de começar esse evento, com certeza vai ser o melhor
+            de todos os tempos, vamooo pra cima! 🔥🔥
+          </p>
+          <div className={styles.messageUser}>
+            <div className={styles.userImage}>
+              <img src="https://github.com/OdaRX.png" alt="Lucas Roberto" />
+            </div>
+            <span>Lucas Roberto</span>
+          </div>
+        </li>
+
+        <li className={styles.message}>
+          <p className={styles.messageContent}>
+            Não vejo a hora de começar esse evento, com certeza vai ser o melhor
+            de todos os tempos, vamooo pra cima! 🔥🔥
+          </p>
+          <div className={styles.messageUser}>
+            <div className={styles.userImage}>
+              <img src="https://github.com/OdaRX.png" alt="Lucas Roberto" />
+            </div>
+            <span>Lucas Roberto</span>
+          </div>
         </li>
       </ul>
     </div>
